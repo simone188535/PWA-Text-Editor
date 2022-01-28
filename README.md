@@ -1,4 +1,4 @@
-# PWA-Text-Editor
+# PWA Text Editor
 ## Description
 This application creates a text editor named JATE (Just another text editor). It uses local storage to save and retrieve user data. It also uses webpack, data caching, 
 workbox services and IndexDB to optimize loading speed.
